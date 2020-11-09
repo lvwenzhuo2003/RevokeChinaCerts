@@ -5,11 +5,11 @@ Revoke China Certificates.<br />
 
 ### Usage
 **不同平台用法参见以下链接/不同平臺用法參見以下連結：**
-* [All documents](https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Documents)
-* [Android](https://github.com/chengr28/RevokeChinaCerts/tree/master/Android)
-* [Linux (experimental)](https://github.com/chengr28/RevokeChinaCerts/tree/master/Linux)
-* [macOS](https://github.com/chengr28/RevokeChinaCerts/tree/master/Mac)
-* [Windows](https://github.com/chengr28/RevokeChinaCerts/tree/master/Windows)
+* [All documents](https://github.com/lvwenzhuo2003/RevokeChinaCerts/tree/master/Shared/Documents)
+* [Android](https://github.com/lvwenzhuo2003/RevokeChinaCerts/tree/master/Android)
+* [Linux (experimental)](https://github.com/lvwenzhuo2003/RevokeChinaCerts/tree/master/Linux)
+* [macOS](https://github.com/lvwenzhuo2003/RevokeChinaCerts/tree/master/Mac)
+* [Windows](https://github.com/lvwenzhuo2003/RevokeChinaCerts/tree/master/Windows)
 
 ### Contributors
 * [Android: Certificates Blacklisting - phoeagon](https://github.com/phoeagon/RevokeChinaCerts/tree/master/Android)
@@ -18,10 +18,10 @@ Revoke China Certificates.<br />
 * [Windows: SoftCertPolicyAppender - lhyqy5](https://github.com/lhyqy5)
 
 ### License
-* Android: [Apache License](https://github.com/chengr28/RevokeChinaCerts/blob/master/Android/LICENSE)
-* Linux: [Apache License](https://github.com/chengr28/RevokeChinaCerts/blob/master/Linux/LICENSE)
-* macOS: [BSD 2-clause License](https://github.com/chengr28/RevokeChinaCerts/blob/master/Mac/LICENSE)
-* Windows: [GNU General Public License/GNU GPL v2](https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/LICENSE)
+* Android: [Apache License](https://github.com/lvwenzhuo2003/RevokeChinaCerts/blob/master/Android/LICENSE)
+* Linux: [Apache License](https://github.com/lvwenzhuo2003/RevokeChinaCerts/blob/master/Linux/LICENSE)
+* macOS: [BSD 2-clause License](https://github.com/lvwenzhuo2003/RevokeChinaCerts/blob/master/Mac/LICENSE)
+* Windows: [GNU General Public License/GNU GPL v2](https://github.com/lvwenzhuo2003/RevokeChinaCerts/blob/master/Windows/LICENSE)
 
 ### Thanks
 * macOS: [Script to automatically disable - QuantumGhost](https://github.com/QuantumGhost/RevokeChinaCerts/tree/master/Mac)
